@@ -1,0 +1,17 @@
+#quote-grp{
+    height: 220px;;
+}
+#p1{
+    color: #43464e;
+    border: darkolivegreen;
+    font-style: italic;
+    width: 50%;
+    margin: 0 auto;
+}
+.card{
+    margin-bottom: 30px;
+    background-color: #edf0e3;
+    border-color:#aba9ac;
+    
+}
+
